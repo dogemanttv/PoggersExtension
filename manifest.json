@@ -7,8 +7,8 @@
     "description": "Changes every image to a picture of the pogchamp.",
   
     "icons": {
-      "600": "icons/pogchamp600.png",
-      "1600": "icons/pogchamp1600.png"
+      "48": "icons/pogchamp48.png",
+      "96": "icons/pogchamp96.png"
     },
   
     "content_scripts": [
@@ -16,13 +16,7 @@
         "matches": ["https://*/*"],
         "js": ["poggers.js"]
       }
-    ],
-
-    "browser_action": {
-      "default_popup": "src/HTML/popup.html",
-      "browser_style": true
-    }
-    
+    ]
   
   }
   
