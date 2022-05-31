@@ -11,3 +11,10 @@ The Poggers Extension is an extension that repeatedly changes every img tag on a
 - Toggle Switch
 - Ability to Change Image
 - Chrome Version
+# How to install Firefox Version
+- just download from firefox addons page
+# How to install Chrome Version
+- go to chrome://extensions
+- check 'Developer Mode'
+- drag .zip from releases tab into page
+- profit
